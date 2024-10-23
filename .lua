@@ -56,7 +56,7 @@ cheeserrenjoyer.BorderSizePixel = 0
 cheeserrenjoyer.Position = UDim2.new(0.0778103396, 0, 0.108381815, 0)
 cheeserrenjoyer.Size = UDim2.new(0, 48, 0, 12)
 cheeserrenjoyer.Font = Enum.Font.SourceSans
-cheeserrenjoyer.Text = "cheeserr enjoyer"
+cheeserrenjoyer.Text = "cheeeserr enjoyer"
 cheeserrenjoyer.TextColor3 = Color3.fromRGB(255, 255, 255)
 cheeserrenjoyer.TextSize = 16.000
 
